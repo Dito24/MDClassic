@@ -1,11 +1,11 @@
 Sample configuration files for:
 
-SystemD: dashd.service
-Upstart: dashd.conf
-OpenRC:  dashd.openrc
-         dashd.openrcconf
-CentOS:  dashd.init
-OS X:    org.dash.dashd.plist
+SystemD: mrclassicd.service
+Upstart: mrclassicd.conf
+OpenRC:  mrclassicd.openrc
+         mrclassicd.openrcconf
+CentOS:  mrclassicd.init
+OS X:    org.mrclassic.mrclassicd.plist
 
 have been made available to assist packagers in creating node packages here.
 

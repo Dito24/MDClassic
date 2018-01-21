@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Dash
-Comment=Dash P2P Cryptocurrency
-Comment[fr]=Dash, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Dash, eşten eşe kriptografik sanal para birimi
-Exec=dash-qt %u
+Name=Mrclassic
+Comment=Mrclassic P2P Cryptocurrency
+Comment[fr]=Mrclassic, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mrclassic, eşten eşe kriptografik sanal para birimi
+Exec=mrclassic-qt %u
 Terminal=false
 Type=Application
-Icon=dash128
-MimeType=x-scheme-handler/dash;
+Icon=mrclassic128
+MimeType=x-scheme-handler/mrclassic;
 Categories=Office;Finance;
